@@ -461,6 +461,7 @@ button:focus {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-bottom: 16px;
 }
 
 .footer-text {
@@ -520,7 +521,6 @@ button:focus {
 
 .footer-soc-icon {
   fill: #f4f4fd;
-  margin-bottom: 16px;
 }
 
 
