@@ -564,3 +564,11 @@ color: #404BBF;
     transform: translate(-50%, -50%);
   }
   
+  .modal-close{
+    position: absolute;
+    border-radius: 4px;
+    background-color: #E7E9FC;
+    top: 24px;
+    right: 24px;
+    padding: 72px 24px 24px 24px;
+  }
