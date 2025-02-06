@@ -601,6 +601,10 @@ color: #404BBF;
     fill: #ffffff;
   }
 
+  .close-icon{
+
+  }
+
   .modal-title{
     max-width: 360px;
     margin-bottom: 16px;
@@ -639,8 +643,7 @@ color: #404BBF;
   }
 
   .modal-field{
-    margin-bottom: 16px;
-    margin-bottom: 24px;
+    margin-bottom: 8px;
   }
 
   .modal-input-icon{
