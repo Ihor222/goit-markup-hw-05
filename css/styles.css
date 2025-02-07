@@ -785,6 +785,10 @@ color: #404BBF;
     margin-bottom: 16px;
   }
 
+  .modal-check{
+    margin-bottom: 24px;
+  }
+
   .modal-check-item{
     width: 16px;
     height: 16px;
