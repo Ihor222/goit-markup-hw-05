@@ -679,6 +679,7 @@ color: #404BBF;
   .modal-input{
     width: 100%;
     height: 40px;
+    margin-bottom: 8px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
     background-color: transparent;
@@ -686,7 +687,6 @@ color: #404BBF;
     padding-left: 38px;
     padding-right: 16px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    margin-bottom: 8px;
   }
 
   .modal-form{
@@ -702,7 +702,6 @@ color: #404BBF;
   }
 
   .modal-field{
-    margin-bottom: 16px;
   }
 
   .modal-input-icon{
@@ -763,6 +762,7 @@ color: #404BBF;
     border-radius: 4px;
     margin: 0 auto; 
     margin-bottom: 24px; 
+    margin-bottom: 24px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
   
