@@ -619,11 +619,11 @@ color: #404BBF;
   
   }
 
-  /*.is-open{
-  opacity: 1;
-  pointer-events: auto;
-  visibility: visible;
-  }*/
+  .is-open{
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
   
   .modal{
     width: 408px;
